@@ -1,4 +1,4 @@
-# UM reCAPTCHA Score Log
+# UM Google reCAPTCHA Score Log
 Extension to Ultimate Member for logging of the UM Google reCAPTCHA Scores to a file with .CSV format.
 
 ## UM Settings - Extensions - Google reCAPTCHA
@@ -8,9 +8,27 @@ Extension to Ultimate Member for logging of the UM Google reCAPTCHA Scores to a 
 4. reCAPTCHA Score Log - Username - Click for including Username in the log file.
 5. reCAPTCHA Score Log - Custom final score - Enter form_id:score or mode:score one pair per line for overriding current UM score setting.
 
+## Options
+1. Additional info Country, Browser and Platform will be added to the log file if the "Geo Controller" plugin is activated
+2. https://wordpress.org/plugins/cf-geoplugin/
+
 ## Log file
 1. .../wp-content/g-recaptcha-v3-score-log.csv
-2. 
+2. CSV file headers: 'Time'
+'Google score',
+'UM score',
+'UM page score',
+'final score',
+'UM page',
+'UM form ID',
+'UM mode',
+'User domain',
+'User IP',
+'Country',
+'Browser',
+'Platform',
+'username',
+'error message'
 
 ## Updates
 None
