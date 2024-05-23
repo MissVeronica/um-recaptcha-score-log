@@ -35,4 +35,4 @@ None
 
 ## Installation
 1. Install by downloading the plugin ZIP file and install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
-2. Activate the Plugin: Ultimate Member - Google reCAPTCHA Score Log
+2. Activate the Plugin: Ultimate Member - Google reCAPTCHA V3 Score Log
