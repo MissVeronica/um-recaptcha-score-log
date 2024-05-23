@@ -1,5 +1,5 @@
-# UM Google reCAPTCHA Score Log
-Extension to Ultimate Member for logging of the UM Google reCAPTCHA Scores to a file with .CSV format.
+# UM Google reCAPTCHA V3 Score Log
+Extension to Ultimate Member for logging of the UM Google reCAPTCHA V3 Scores to a file with .CSV format.
 
 ## UM Settings - Extensions - Google reCAPTCHA
 1. reCAPTCHA Score Log - Enable/Disable - Click to enable score logging.
