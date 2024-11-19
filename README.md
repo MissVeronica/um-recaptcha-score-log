@@ -17,7 +17,7 @@ Extension to Ultimate Member for logging of the UM Google reCAPTCHA V3 Scores to
 1. .../wp-content/uploads/ultimatemember/um-recaptcha-score/g-recaptcha-v3-score-log.csv
 2. CSV file headers:
 
-<code>Time  Google score  UM score  UM page score  final score  UM page  UM form ID  UM mode  User domain  User IP  Country  Browser  Platform  username  error message</code>
+<code>Time  Google score  UM setting  UM page score  final score  UM page  UM form ID  UM mode  User domain  User IP  Country  Browser  Platform  username  error message</code>
 
 ## Updates
 None
