@@ -24,13 +24,13 @@ Local date and time
 Score result returned by Google
 
 ### UM setting
-UM reCAPTCHA Score setting
+UM reCAPTCHA score global setting
 
 ### UM form
-reCAPTCHA score for this form
+UM reCAPTCHA score setting for this form being used instead of the global setting
 
 ### UM limit
-Score value used to compare against Google score
+Score value used
 
 ### success
 Google's conclusion 
@@ -47,7 +47,7 @@ UM Forms builder form ID
 ### UM mode 
 
 ### User domain
-User internet provider by the gethostbyaddr function
+User internet provider by the gethostbyaddr function and IP address
 
 ### User IP
 User IP address
@@ -62,7 +62,7 @@ User browser and version according to the shortcodes [cfgeo return="browser"] [c
 User platform according to the shortcode [cfgeo return="platform"] by CF_Geoplugin
 
 ### username
-UM username entered by the User
+UM username/user_login entered by the User
 
 ### error message
 
