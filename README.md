@@ -17,7 +17,54 @@ Extension to Ultimate Member for logging of the UM Google reCAPTCHA V3 Scores to
 1. .../wp-content/uploads/ultimatemember/um-recaptcha-score/g-recaptcha-v3-score-log.csv
 2. CSV file headers:
 
-<code>Time  Google score  UM setting  UM page score  final score  UM page  UM form ID  UM mode  User domain  User IP  Country  Browser  Platform  username  error message</code>
+### Time
+Local date and time
+
+### Google
+Score result returned by Google
+
+### UM setting
+UM reCAPTCHA Score setting
+
+### UM form
+reCAPTCHA score for this form
+
+### UM limit
+Score value used to compare against Google score
+
+### success
+Google's conclusion 
+
+### action
+Google action type
+
+### WP page  
+WP page name
+
+### UM form ID
+UM Forms builder form ID
+
+### UM mode 
+
+### User domain
+User internet provider by the gethostbyaddr function
+
+### User IP
+User IP address
+
+### Country
+User IP location according to the shortcode [cfgeo return="country"] by CF_Geoplugin 
+
+### Browser
+User browser and version according to the shortcodes [cfgeo return="browser"] [cfgeo return="browser_version"] by CF_Geoplugin
+
+### Platform
+User platform according to the shortcode [cfgeo return="platform"] by CF_Geoplugin
+
+### username
+UM username entered by the User
+
+### error message
 
 ## Updates
 None
