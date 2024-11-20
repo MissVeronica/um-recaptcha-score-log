@@ -1,12 +1,14 @@
 # UM Google reCAPTCHA V3 Score Log
-Extension to Ultimate Member for logging of the UM Google reCAPTCHA V3 Scores to a file with .CSV format.
+Extension to Ultimate Member for logging of the UM Google reCAPTCHA V3 Scores to a file with CSV format.
 
 ## UM Settings - Extensions - Google reCAPTCHA
-1. Enable/Disable - Tick to enable score logging.
-2. User Remote Host - Tick for including User remote Host domain name in the log file.
-3. User Remote IP address - Tick for including User remote IP address in the log file.
-4. Username - Tick for including Username in the log file.
-5. Custom final score - Enter form_id:score or mode:score one pair per line for overriding current UM score setting.
+reCAPTCHA Score Log CSV file settings
+1. Enable/Disable - Tick to enable reCAPTCHA score logging to a CSV file.
+2. User host - Tick for including User host domain name.
+3. User IP address - Tick for including User IP address.
+4. Username - Tick for including username.
+5. Decimal numbers with comma - Tick for converting dot to comma in decimal numbers if required the spreadsheet calculations.
+6. CSV file delimiter - Select the field delimiter to be used. Default is Tab.
 
 ## Options
 1. Additional info Country, Browser and Platform will be added to the log file if the "Geo Controller" plugin is activated
@@ -65,6 +67,9 @@ User platform according to the shortcode [cfgeo return="platform"] by CF_Geoplug
 UM username/user_login entered by the User
 
 ### error message
+
+## UM reCAPTCHA
+Required version 2.3.8 or later
 
 ## Updates
 None
