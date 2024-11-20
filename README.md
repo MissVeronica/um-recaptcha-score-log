@@ -70,7 +70,7 @@ UM username/user_login entered by the User
 Google returned error translated by the UM reCAPTCHA plugin
 
 ## UM reCAPTCHA
-Required version 2.3.8 or later
+Required version 2.3.8 or later using reCAPTCHA type V3 
 
 ## Updates
 None
