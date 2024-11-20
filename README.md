@@ -55,13 +55,13 @@ User internet provider by the gethostbyaddr function and IP address
 User IP address
 
 ### Country
-User IP location according to the shortcode [cfgeo return="country"] by CF_Geoplugin 
+User IP location according to the shortcode [cfgeo return="country"] by the CF_Geoplugin 
 
 ### Browser
-User browser and version according to the shortcodes [cfgeo return="browser"] [cfgeo return="browser_version"] by CF_Geoplugin
+User browser and version according to the shortcodes [cfgeo return="browser"] [cfgeo return="browser_version"] by the CF_Geoplugin
 
 ### Platform
-User platform according to the shortcode [cfgeo return="platform"] by CF_Geoplugin
+User platform according to the shortcode [cfgeo return="platform"] by the CF_Geoplugin
 
 ### username
 UM username/user_login entered by the User
