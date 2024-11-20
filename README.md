@@ -7,7 +7,7 @@ reCAPTCHA Score Log CSV file settings
 2. User host - Tick for including User host domain name.
 3. User IP address - Tick for including User IP address.
 4. Username - Tick for including username.
-5. Decimal numbers with comma - Tick for converting dot to comma in decimal numbers if required the spreadsheet calculations.
+5. Decimal numbers with comma - Tick for converting dot to comma in decimal numbers if required for the spreadsheet calculations.
 6. CSV file delimiter - Select the field delimiter to be used. Default is Tab.
 
 ## Options
