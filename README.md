@@ -16,7 +16,7 @@ reCAPTCHA Score Log CSV file settings
 3. https://wordpress.org/plugins/cf-geoplugin/
 
 ## Log file
-1. .../wp-content/uploads/ultimatemember/um-recaptcha-score/g-recaptcha-v3-score-log.cs
+1. .../wp-content/uploads/ultimatemember/um-recaptcha-score/g-recaptcha-v3-score-log.csv
 2. Log file is protected by a .htaccess file
 3. CSV file headers:
 
