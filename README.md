@@ -47,7 +47,8 @@ WP page name
 ### UM form ID
 UM Forms builder form ID
 
-### UM mode 
+### UM mode
+UM core mode
 
 ### User domain
 User internet provider by the gethostbyaddr function and IP address
