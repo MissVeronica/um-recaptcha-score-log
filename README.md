@@ -69,7 +69,7 @@ User platform according to the shortcode [cfgeo return="platform"] by the CF_Geo
 UM username/user_login entered by the User
 
 ### error message
-Google returned error translated by the UM reCAPTCHA plugin
+Google returned error translated by the UM reCAPTCHA plugin or Google score value less than the UMglobal or form setting.
 
 ## UM reCAPTCHA
 Required version 2.3.8 or later using reCAPTCHA type V3 
